@@ -1,0 +1,39 @@
+#header{
+    position: relative;
+    background-image: linear-gradient(to bottom right,rgb(28, 28, 196),rgb(238, 49, 143));
+    height: 250px;
+    margin: 0;
+}
+
+div div .col .input{
+    width: 100%;
+}
+
+#title {
+    position: absolute;
+    top: 40%;
+    right: 50%;
+    left: 40%;
+    margin-right: 40px;
+    font-size:2.5em;
+}
+
+.container {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col{
+    margin: 30px;
+}
+
+#click{
+    width: 50%;
+    margin-top: 60px;
+   text-align: center;
+   background-color: chartreuse;
+}
+#click:hover{
+    background-color: cyan;
+}
